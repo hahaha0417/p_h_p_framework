@@ -1,4 +1,4 @@
-# p"h"p_hahaha_framework
+# p"h"p_framework
  \
 <img src='https://github.com/hahaha0417/php_hahaha_framework/blob/master/php%20hahaha%20framework.png' width=100%>
 
