@@ -8,9 +8,9 @@
 還沒初始化，初始化才寫 
 
 ## 架構規劃
-主要裝composer套件設定檔
-從php hahaha framework精簡而來
+從php hahaha framework精簡而來 \
+主要裝composer套件設定檔 
 
 ## 目的
-上班用
+上班用 \
 補強php hahaha framework
